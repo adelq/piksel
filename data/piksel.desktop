@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Version=1.0
+Name=Piksel
+GenericName=Image editor
+Comment=A modern Linux image editor
+Exec=piksel
+Icon=piksel
+Terminal=false
+Categories=Graphics;2DGraphics;RasterGraphics
