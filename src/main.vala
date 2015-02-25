@@ -1,5 +1,6 @@
 int main (string[] args) {
 	Gtk.init (ref args);
+	Gtk.Settings.get_default().set("gtk-application-prefer-dark-theme", true);
 
 	var window = new Gtk.Window();
 	window.title = "Piksel";
